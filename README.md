@@ -6,11 +6,11 @@
 -Campus: Sydney  
 -Tutor: Nagur Sheik  
 
-##Project Report
+##Project Report  
 
--[Project Plan](./plan.md)
--[Network Design](./network.md)
--[Cloud Services](./cloud.md)
--[Security](./security.md)
--[Ethical Issues](./ethics.md)
--[Project Reflections](./reflection.md)
+-[Project Plan](./plan.md)  
+-[Network Design](./network.md)  
+-[Cloud Services](./cloud.md)  
+-[Security](./security.md)  
+-[Ethical Issues](./ethics.md)  
+-[Project Reflections](./reflection.md)  
