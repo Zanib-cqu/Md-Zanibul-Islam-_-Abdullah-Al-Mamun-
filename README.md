@@ -6,7 +6,7 @@
 -Campus: Sydney  
 -Tutor: Nagur Sheik  
 
-##Project Report  
+## Project Report  
 
 -[Project Plan](./plan.md)  
 -[Network Design](./network.md)  
