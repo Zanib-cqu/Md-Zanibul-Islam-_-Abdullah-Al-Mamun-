@@ -1,10 +1,10 @@
 # COIT20246 Networking and Cyber Security Project
 
 -Group Number:
--Student 1: Md Zanibul Islam (12301075)
--Student 2: Abdullah Al Mamun (12298399)
--Campus: Sydney
--Tutor: Nagur Sheik
+-Student 1: Md Zanibul Islam (12301075)  
+-Student 2: Abdullah Al Mamun (12298399)  
+-Campus: Sydney  
+-Tutor: Nagur Sheik  
 
 ##Project Report
 
